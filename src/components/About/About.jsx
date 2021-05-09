@@ -22,11 +22,11 @@ function About() {
                         />
                         <CardContent>
                             <Typography gutterBottom variant="h5" component="h2">
-                                Josh
-                        </Typography>
+                                Joshua Johnson
+                            </Typography>
                             <Typography>
-                                I am a software engineer, champion for equality, and race car driver! 😊 I am based in the Dallas, Texas area right now and am working at Citi. I specialize in microservices, but have professional experience with full stack development as well.
-                        </Typography>
+                                I am a software engineer, champion for equality, and race car driver! 😊 I am based in the Austin, Texas area right now and am working at Citi. I specialize in microservices, but have professional experience with full stack development as well.
+                            </Typography>
                         </CardContent>
                     </Card>
                 </Grid>

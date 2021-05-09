@@ -1,11 +1,12 @@
-import { AppBar, Tab, Tabs, Toolbar } from "@material-ui/core";
+import { AppBar, Tab, Tabs } from "@material-ui/core";
 
 function NavBar() {
     return (
         <AppBar position="sticky">
-            <Tabs>
+            <Tabs centered={true}>
                 <Tab label="About" />
                 <Tab label="Experience" />
+                <Tab label="Projects" />
                 <Tab label="Resume" />
                 <Tab label="Contact" />
             </Tabs>
